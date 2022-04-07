@@ -1,5 +1,5 @@
 ﻿Test GP App
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\App.xaml
 31765690356
 
-71530538262
+5-1985056538
 192-1533232326
 MainWindow.xaml;Page1.xaml;Page2.xaml;
 
-True
+False
 

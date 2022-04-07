@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Test_GP_App"
         mc:Ignorable="d"
-        Title="MainWindow" Height="1280" Width="720">
+        Title="MainWindow" Height="1500" Width="750" Background="{x:Null}">
     <Window.Resources>
         <Style x:Key="FocusVisual">
             <Setter Property="Control.Template">
@@ -118,24 +118,8 @@
             </Setter>
         </Style>
     </Window.Resources>
-    <Window.Background>
-        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-            <GradientStop Color="Black" Offset="1"/>
-            <GradientStop Color="Red" Offset="0"/>
-        </LinearGradientBrush>
-    </Window.Background>
-    <Grid>
-        <Button Style="{DynamicResource RoundedButton}" Content="Button" HorizontalAlignment="Center" Height="129" Margin="0,1004,0,0" VerticalAlignment="Top" Width="426" Click="Deez" UseLayoutRounding="False">
-            
-            <Button.Effect>
-                <DropShadowEffect/>
-            </Button.Effect>
-        </Button>
-        <Ellipse HorizontalAlignment="Left" Height="192" Margin="242,180,0,0" Stroke="Black" VerticalAlignment="Top" Width="225" Fill="White" StrokeThickness="0">
-            <Ellipse.Effect>
-                <DropShadowEffect/>
-            </Ellipse.Effect>
-        </Ellipse>
+    <Grid RenderTransformOrigin="0.539,0.457" Background="White" Margin="10,10,10,-6" Width="720" Height="1264">
+        <Frame x:Name="frame" Content="Frame" NavigationUIVisibility="Hidden" Height="1264" Width="720"/>
 
     </Grid>
 </Window>

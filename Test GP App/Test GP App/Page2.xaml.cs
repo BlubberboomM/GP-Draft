@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,21 +14,13 @@ using System.Windows.Shapes;
 namespace Test_GP_App
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Page2.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Page2 : Page
     {
-        public MainWindow()
+        public Page2()
         {
             InitializeComponent();
-
-            Loaded += MyWindow_Loaded;
         }
-
-        private void MyWindow_Loaded(object sender, RoutedEventArgs e)
-        {
-            frame.NavigationService.Navigate(new Page1());
-        }
-
     }
 }

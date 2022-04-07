@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mackin19\\Documents\\Deez\\Test GP App\\Test GP App\\Test GP App.csproj": {}
+    "C:\\Users\\mackin19\\Downloads\\GP-Draft-main\\GP-Draft-main\\Test GP App\\Test GP App\\Test GP App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mackin19\\Documents\\Deez\\Test GP App\\Test GP App\\Test GP App.csproj": {
+    "C:\\Users\\mackin19\\Downloads\\GP-Draft-main\\GP-Draft-main\\Test GP App\\Test GP App\\Test GP App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mackin19\\Documents\\Deez\\Test GP App\\Test GP App\\Test GP App.csproj",
+        "projectUniqueName": "C:\\Users\\mackin19\\Downloads\\GP-Draft-main\\GP-Draft-main\\Test GP App\\Test GP App\\Test GP App.csproj",
         "projectName": "Test GP App",
-        "projectPath": "C:\\Users\\mackin19\\Documents\\Deez\\Test GP App\\Test GP App\\Test GP App.csproj",
+        "projectPath": "C:\\Users\\mackin19\\Downloads\\GP-Draft-main\\GP-Draft-main\\Test GP App\\Test GP App\\Test GP App.csproj",
         "packagesPath": "C:\\Users\\mackin19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mackin19\\Documents\\Deez\\Test GP App\\Test GP App\\obj\\",
+        "outputPath": "C:\\Users\\mackin19\\Downloads\\GP-Draft-main\\GP-Draft-main\\Test GP App\\Test GP App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
