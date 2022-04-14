@@ -14,12 +14,21 @@
                 <GradientStop Color="Red" Offset="0"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <Button x:Name="button" Content="Place Order" HorizontalAlignment="Center" Height="104" Margin="0,994,0,0" VerticalAlignment="Top" Width="328" Click="Click" Background="#FFBA0000"/>
-        <Ellipse HorizontalAlignment="Center" Height="192" Margin="0,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="225" Fill="White" StrokeThickness="0" RenderTransformOrigin="0.534,-0.484">
-            <Ellipse.Effect>
-                <DropShadowEffect/>
-            </Ellipse.Effect>
-        </Ellipse>
+        <Viewbox Margin="0,0,10,10">
+            <Canvas Height="1280" Width="720">
+                <Ellipse Height="192" Stroke="Black" Width="225" Fill="White" StrokeThickness="0" RenderTransformOrigin="0.534,-0.484" Canvas.Left="247.5" Canvas.Top="33">
+                    <Ellipse.Effect>
+                        <DropShadowEffect/>
+                    </Ellipse.Effect>
+                </Ellipse>
+                <Rectangle Height="78" Stroke="Black" Width="407" Fill="#FFBA0000" RadiusX="35.333" RadiusY="35.333" MouseLeftButtonUp="PlaceOrderClick" Canvas.Left="174" Canvas.Top="1064">
+                    <Rectangle.Effect>
+                        <DropShadowEffect/>
+                    </Rectangle.Effect>
+                </Rectangle>
+                <TextBlock Height="39" TextWrapping="Wrap" Width="286" FontSize="26" Foreground="White" Canvas.Left="307" Canvas.Top="1083"><Run Text="Place Order"/><LineBreak/><Run/></TextBlock>
+            </Canvas>
+        </Viewbox>
 
     </Grid>
 </Page>

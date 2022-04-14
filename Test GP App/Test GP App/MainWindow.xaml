@@ -119,7 +119,7 @@
         </Style>
     </Window.Resources>
     <Grid RenderTransformOrigin="0.539,0.457" Background="White" Margin="10,10,10,-6" Width="720" Height="1264">
-        <Frame x:Name="frame" Content="Frame" NavigationUIVisibility="Hidden" Height="1264" Width="720"/>
+        <Frame x:Name="frame" Content="Frame" NavigationUIVisibility="Hidden" Height="1280" Width="720"/>
 
     </Grid>
 </Window>

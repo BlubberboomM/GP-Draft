@@ -23,7 +23,7 @@ namespace Test_GP_App
             InitializeComponent();
         }
 
-        private void Click(object sender, RoutedEventArgs e)
+        private void PlaceOrderClick(object sender, MouseButtonEventArgs e)
         {
             this.NavigationService.Navigate(new Page2());
         }
