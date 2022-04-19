@@ -14,16 +14,26 @@ using System.Windows.Shapes;
 namespace Test_GP_App
 {
     /// <summary>
-    /// Interaction logic for Page1.xaml
+    /// Interaction logic for Page4.xaml
     /// </summary>
-    public partial class Page1 : Page
+    public partial class Page4 : Page
     {
-        public Page1()
+        public Page4(string time)
         {
             InitializeComponent();
+
+            string localTime = time;
+            pickupText.Text = "Pickup Time:\n" + localTime;
+ 
         }
 
-        private void button_Click(object sender, MouseButtonEventArgs e)
+        public void setText()
+        {
+            /// Retrieves a time from page 3
+
+        }
+
+        private void back(object sender, MouseButtonEventArgs e)
         {
             this.NavigationService.Navigate(new Page3());
         }

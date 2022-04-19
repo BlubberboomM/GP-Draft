@@ -4,22 +4,27 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:Test_GP_App"
-      mc:Ignorable="d"
-      Title="Page1" Height="1264" Width="720">
+      mc:Ignorable="d" 
+      d:DesignHeight="667" d:DesignWidth="375"
+      Title="Page1">
 
-    <Grid Width="720" Height="1264">
+    <Grid>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="Black" Offset="1"/>
                 <GradientStop Color="Red" Offset="0"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <Button x:Name="button" Content="Place Order" HorizontalAlignment="Center" Height="104" Margin="0,994,0,0" VerticalAlignment="Top" Width="328" Click="Click" Background="#FFBA0000"/>
-        <Ellipse HorizontalAlignment="Center" Height="192" Margin="0,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="225" Fill="White" StrokeThickness="0" RenderTransformOrigin="0.534,-0.484">
-            <Ellipse.Effect>
-                <DropShadowEffect/>
-            </Ellipse.Effect>
-        </Ellipse>
+        <Viewbox Margin="0,0,10,20">
+            <Canvas Height="1270" Width="720">
+                <Ellipse Height="192" Stroke="Black" Width="225" Fill="White" StrokeThickness="0" MouseLeftButtonDown="button_Click" Canvas.Left="242" Canvas.Top="180">
+                    <Ellipse.Effect>
+                        <DropShadowEffect/>
+                    </Ellipse.Effect>
+                </Ellipse>
+                <Rectangle Height="129" Stroke="Black" Width="426" RadiusX="61" RadiusY="61" Fill="Red" MouseLeftButtonDown="button_Click" Canvas.Left="147" Canvas.Top="1004"/>
+            </Canvas>
+        </Viewbox>
 
     </Grid>
 </Page>

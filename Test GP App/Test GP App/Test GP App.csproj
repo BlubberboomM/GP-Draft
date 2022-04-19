@@ -7,4 +7,16 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="cart.PNG" />
+    <None Remove="Media\back.PNG" />
+    <None Remove="Media\cart.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="cart.PNG" />
+    <Resource Include="Media\back.PNG" />
+    <Resource Include="Media\cart.PNG" />
+  </ItemGroup>
+
 </Project>

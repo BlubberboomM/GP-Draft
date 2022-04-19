@@ -5,7 +5,10 @@
     <Compile Update="Page1.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Page2.xaml.cs">
+    <Compile Update="Page3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Page4.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
