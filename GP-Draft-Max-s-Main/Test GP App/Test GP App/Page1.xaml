@@ -1,0 +1,49 @@
+﻿<Page x:Class="Test_GP_App.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Test_GP_App"
+      mc:Ignorable="d"
+      d:DesignHeight="1280" d:DesignWidth="720"
+      Title="Page1">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="Red" Offset="0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Viewbox Margin="-1,-5,0,0">
+            <Canvas Height="667" Width="375">
+                <Ellipse Height="146" Stroke="Black" Width="171" StrokeThickness="0" RenderTransformOrigin="0.534,-0.484" Canvas.Left="103.271" Canvas.Top="10">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="/Smokies.png">
+                            <ImageBrush.RelativeTransform>
+                                <TransformGroup>
+                                    <ScaleTransform CenterY="0.5" CenterX="0.5" ScaleX="1.2" ScaleY="1.2"/>
+                                    <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                                    <RotateTransform CenterY="0.5" CenterX="0.5"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </ImageBrush.RelativeTransform>
+                        </ImageBrush>
+                    </Ellipse.Fill>
+                    <Ellipse.Effect>
+                        <DropShadowEffect/>
+                    </Ellipse.Effect>
+                </Ellipse>
+                <Rectangle Height="67" Stroke="Black" Width="351" Fill="#FFBA0000" RadiusX="35.333" RadiusY="35.333" MouseLeftButtonUp="PlaceOrderClick" Canvas.Left="12" Canvas.Top="548.268">
+                    <Rectangle.Effect>
+                        <DropShadowEffect/>
+                    </Rectangle.Effect>
+                </Rectangle>
+                <TextBlock Height="34" TextWrapping="Wrap" Width="141" FontSize="26" Foreground="White" Canvas.Left="117" Canvas.Top="560.91" RenderTransformOrigin="0.955,0.455" MouseLeftButtonUp="TextNextPageClick"><Run Text="Place Order"/><LineBreak/><Run/></TextBlock>
+                <TextBlock Height="29" Canvas.Left="111.5" Canvas.Top="635.077" Text="Employee Pin" TextWrapping="Wrap" Width="152" Foreground="#FFFBFBFB" FontSize="22" TextDecorations="Underline" MouseLeftButtonUp="EmployeeClick"/>
+                <TextBlock Height="332" Canvas.Left="54.612" Canvas.Top="199.571" TextWrapping="Wrap" Width="264" Foreground="White" FontSize="24" TextAlignment="Center"><Run Text="Welcome to Smokie's online ordering. "/><LineBreak/><Run/><LineBreak/><Run Text="We are currently located in the Foster Urgent Care parking lot in Traverse City, MI."/><LineBreak/><Run/><LineBreak/><Run Text="Pickup available   10AM-7PM"/></TextBlock>
+            </Canvas>
+        </Viewbox>
+
+    </Grid>
+</Page>
