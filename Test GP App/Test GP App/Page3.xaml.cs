@@ -26,7 +26,7 @@ namespace Test_GP_App
         public Page3()
         {
             InitializeComponent();
-
+            
             setText();
         }
 

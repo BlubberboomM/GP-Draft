@@ -18,12 +18,25 @@
         <Viewbox Margin="-1,-5,0,0">
             <Canvas Height="1280" Width="720">
                 <Rectangle Height="90" Stroke="Black" Width="720" Fill="#FFC4C4C4"/>
-                <Ellipse Height="84" Stroke="Black" Width="84" Canvas.Left="3" Canvas.Top="3"/>
-                <TextBlock Height="56" Text="Cart" TextWrapping="Wrap" Width="145" FontFamily="Segoe UI Semibold" FontWeight="Normal" FontSize="36" Canvas.Left="92" Canvas.Top="17"/>
-                <TextBlock Height="144" Text="Name" TextWrapping="Wrap" Width="435" Foreground="White" FontFamily="Segoe UI Semibold" FontSize="60" TextAlignment="Center" Canvas.Left="142.5" Canvas.Top="168"/>
+                <Ellipse Height="84" Stroke="Black" Width="84" Canvas.Left="3" Canvas.Top="3">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="/Media/Smokies.png">
+                            <ImageBrush.RelativeTransform>
+                                <TransformGroup>
+                                    <ScaleTransform CenterY="0.5" CenterX="0.5" ScaleX="1.2" ScaleY="1.2"/>
+                                    <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                                    <RotateTransform CenterY="0.5" CenterX="0.5"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </ImageBrush.RelativeTransform>
+                        </ImageBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <TextBlock Height="56" Text="Payment" TextWrapping="Wrap" Width="145" FontFamily="Segoe UI Semibold" FontWeight="Normal" FontSize="36" Canvas.Left="92" Canvas.Top="17"/>
+                <TextBlock Height="83" Text="Name:" TextWrapping="Wrap" Width="180" Foreground="White" FontFamily="Segoe UI Semibold" FontSize="60" TextAlignment="Center" Canvas.Left="10" Canvas.Top="95"/>
                 <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1150"/>
                 <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1055"/>
-                <TextBlock Height="110" TextWrapping="Wrap" Width="313" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="693"><Run Text="Your Total"/><LineBreak/><Run Text="Placeholder"/></TextBlock>
+                <TextBlock x:Name="totalText" Height="110" TextWrapping="Wrap" Width="313" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="693"><Run Text="Your Total:"/><LineBreak/><Run Text="Placeholder"/></TextBlock>
                 <TextBlock x:Name="asapText" Height="52" TextWrapping="Wrap" Width="313" Text="Pay Now" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1068"/>
                 <TextBlock Height="49" TextWrapping="Wrap" Width="313" Text="Pay at Pick Up" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1164.5"/>
                 <TextBlock Height="32" Text="Back" TextWrapping="Wrap" Width="71" Foreground="White" FontSize="22" Canvas.Left="94" Canvas.Top="1212"/>
@@ -42,7 +55,11 @@
                         </ImageBrush>
                     </Ellipse.Fill>
                 </Ellipse>
-                <TextBlock Height="144" Text="Your Order" TextWrapping="Wrap" Width="435" Foreground="White" FontFamily="Segoe UI Semibold" FontSize="60" TextAlignment="Center" Canvas.Left="142.5" Canvas.Top="298"/>
+                <TextBlock Height="89" Text="Phone:" TextWrapping="Wrap" Width="193" Foreground="White" FontFamily="Segoe UI Semibold" FontSize="60" TextAlignment="Center" Canvas.Left="10" Canvas.Top="208.614"/>
+                <Path Data="M0.99861304,198.11373 L720.12638,198.11373" Fill="#FFF4F4F5" Height="1" Canvas.Left="0.999" Stretch="Fill" Stroke="White" Canvas.Top="198.114" Width="720" StrokeThickness="5"/>
+                <Path Data="M0.99861304,198.11373 L720.12638,198.11373" Fill="#FFF4F4F5" Height="1" Canvas.Left="3" Stretch="Fill" Stroke="White" Canvas.Top="307.114" Width="717" StrokeThickness="5"/>
+                <TextBox x:Name="nameBox" Height="98" Canvas.Left="216.699" Canvas.Top="95.667" TextWrapping="Wrap" Width="493" FontSize="60" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" TextDecorations="Underline"/>
+                <TextBox x:Name="phoneBox" Height="98" Canvas.Left="216.699" Canvas.Top="204.781" TextWrapping="Wrap" Width="493" FontSize="60" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" TextDecorations="Underline"/>
             </Canvas>
         </Viewbox>
 
