@@ -8,6 +8,9 @@
     <Compile Update="Page2.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Page6.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Page9.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

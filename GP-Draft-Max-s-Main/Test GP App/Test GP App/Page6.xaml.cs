@@ -14,23 +14,18 @@ using System.Windows.Shapes;
 namespace Test_GP_App
 {
     /// <summary>
-    /// Interaction logic for Page9.xaml
+    /// Interaction logic for Page6.xaml
     /// </summary>
-    public partial class Page9 : Page
+    public partial class Page6 : Page
     {
-        public Page9()
+        public Page6()
         {
             InitializeComponent();
         }
 
-        private void LogoutButtonClick(object sender, MouseButtonEventArgs e)
+        private void CloseAppButtonClick(object sender, MouseButtonEventArgs e)
         {
-            this.NavigationService.Navigate(new Page1());
-        }
-
-        private void LogoutTextClick(object sender, MouseButtonEventArgs e)
-        {
-            this.NavigationService.Navigate(new Page1());
+            //MainWindow.Close();
         }
     }
 }
