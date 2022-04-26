@@ -18,3 +18,5 @@ C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP 
 C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
 C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
 C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.baml

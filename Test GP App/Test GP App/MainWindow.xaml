@@ -482,6 +482,7 @@
                 </Grid>
             </StackPanel>
         </ScrollViewer>
+        <Frame Content="Frame" Margin="-265,0,451,-22" Grid.RowSpan="3" Width="367" Height="646"/>
 
     </Grid>
 </Window>

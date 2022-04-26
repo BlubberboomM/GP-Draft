@@ -6,10 +6,368 @@
       xmlns:local="clr-namespace:Test_GP_App"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="Page2">
+      Title="Page2" Height="643" Width="367">
 
-    <Grid Background="White">
-        <Button Content="HHHHHHHHHH" HorizontalAlignment="Left" Height="104" Margin="177,299,0,0" VerticalAlignment="Top" Width="392"/>
+    <Grid Width="367" Height="643">
+        <Viewbox Margin="0,0,0,-3" Width="367" Height="646">
+            <Canvas Width="367" Height="651">
+                <Grid Height="651" Width="375">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1015*"/>
+                        <RowDefinition Height="0*"/>
+                        <RowDefinition Height="249*"/>
+                    </Grid.RowDefinitions>
+                    <ScrollViewer HorizontalAlignment="Center" Height="523" VerticalAlignment="Center" Width="375" IsManipulationEnabled="True">
+                        <StackPanel x:Name="Menu" Height="1808" Width="365">
+                            <Grid Height="245" Width="330">
+                                <Rectangle x:Name="Pork_kebabs" Stroke="Black" Width="330" Height="245">
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/Pork Kebabs.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                                <Rectangle x:Name="drop_down_pk" HorizontalAlignment="Left" Height="35" Margin="278,9,0,0" Stroke="Black" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.5,0.5">
+                                    <Rectangle.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-90.424"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Rectangle.RenderTransform>
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/image.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                            </Grid>
+                            <Grid x:Name="Main_Pork_Kebab" Height="52" Width="365">
+                                <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Rectangle x:Name="Pork_Kebabs1" HorizontalAlignment="Center" Height="52" Stroke="Black" VerticalAlignment="Top" Width="365" Fill="#FFC4C4C4" RadiusX="35.33" RadiusY="43"/>
+                                    <TextBlock x:Name="Pork_kebab_price" HorizontalAlignment="Left" Height="44" Margin="70,8,0,0" Text="$6.99  Pork Kebabs(3): " TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="23" Foreground="White">
+                                        <TextBlock.Background>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </TextBlock.Background>
+                                    </TextBlock>
+                                </Grid>
+                                <Rectangle x:Name="minus" Fill="White" Margin="16,21,300,21">
+                                    <Rectangle.Stroke>
+                                        <SolidColorBrush Color="Black" Opacity="0"/>
+                                    </Rectangle.Stroke>
+                                </Rectangle>
+                                <Grid x:Name="plus14" Margin="302,20,14,21">
+                                    <Rectangle x:Name="plus" Fill="White" RenderTransformOrigin="0.5,0.5" Margin="0,1,0,0">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </Rectangle.Stroke>
+                                        <Rectangle.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="90.50200000000001"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </Rectangle.RenderTransform>
+                                    </Rectangle>
+                                    <Rectangle x:Name="plus1" Fill="White" Margin="0,0,0,1">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0.004"/>
+                                        </Rectangle.Stroke>
+                                    </Rectangle>
+
+                                </Grid>
+
+                            </Grid>
+                            <Grid Height="245" Width="329">
+                                <Rectangle x:Name="Chicken_kebabs" Stroke="Black" Width="330" Height="245">
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/Chicken Kebabs.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                                <Rectangle x:Name="drop_down_ck" HorizontalAlignment="Left" Height="35" Margin="278,9,0,0" Stroke="Black" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.5,0.5">
+                                    <Rectangle.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-90.424"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Rectangle.RenderTransform>
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/image.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                            </Grid>
+                            <Grid x:Name="Main_Chicken_Kebab" Height="52" Width="365">
+                                <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Rectangle x:Name="Pork_Kebabs2" HorizontalAlignment="Center" Height="52" Stroke="Black" VerticalAlignment="Top" Width="365" Fill="#FFC4C4C4" RadiusX="35.33" RadiusY="43"/>
+                                    <TextBlock x:Name="Pork_kebab_price1" HorizontalAlignment="Left" Height="44" Margin="71,10,0,0" Text="$6.99 Chicken Kebabs(3): " TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="20" Foreground="White">
+                                        <TextBlock.Background>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </TextBlock.Background>
+                                    </TextBlock>
+                                </Grid>
+                                <Rectangle x:Name="minus1" Fill="White" Margin="16,21,300,21">
+                                    <Rectangle.Stroke>
+                                        <SolidColorBrush Color="Black" Opacity="0"/>
+                                    </Rectangle.Stroke>
+                                </Rectangle>
+                                <Grid x:Name="plus15" Margin="302,20,14,21">
+                                    <Rectangle x:Name="plus16" Fill="White" RenderTransformOrigin="0.5,0.5" Margin="0,1,0,0">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </Rectangle.Stroke>
+                                        <Rectangle.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="90.50200000000001"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </Rectangle.RenderTransform>
+                                    </Rectangle>
+                                    <Rectangle x:Name="plus17" Fill="White" Margin="0,0,0,1">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0.004"/>
+                                        </Rectangle.Stroke>
+                                    </Rectangle>
+
+                                </Grid>
+
+                            </Grid>
+                            <Grid Height="245" Width="329">
+                                <Rectangle x:Name="Sweet_Potato_Fries" Stroke="Black" Width="330" Height="245">
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/Sweet Potato Fries.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                                <Rectangle x:Name="drop_down_sf" HorizontalAlignment="Left" Height="35" Margin="278,9,0,0" Stroke="Black" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.5,0.5">
+                                    <Rectangle.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-90.424"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Rectangle.RenderTransform>
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/image.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                            </Grid>
+                            <Grid x:Name="Main_Sweet_fries" Height="52" Width="365">
+                                <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Rectangle x:Name="Pork_Kebabs3" HorizontalAlignment="Center" Height="52" Stroke="Black" VerticalAlignment="Top" Width="365" Fill="#FFC4C4C4" RadiusX="35.33" RadiusY="43"/>
+                                    <TextBlock x:Name="Pork_kebab_price2" HorizontalAlignment="Left" Height="44" Margin="76,8,0,0" Text="$5.99 Sweet Potato fries: " TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="20" Foreground="White">
+                                        <TextBlock.Background>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </TextBlock.Background>
+                                    </TextBlock>
+                                </Grid>
+                                <Rectangle x:Name="minus2" Fill="White" Margin="16,21,300,21">
+                                    <Rectangle.Stroke>
+                                        <SolidColorBrush Color="Black" Opacity="0"/>
+                                    </Rectangle.Stroke>
+                                </Rectangle>
+                                <Grid x:Name="plus18" Margin="302,20,14,21">
+                                    <Rectangle x:Name="plus19" Fill="White" RenderTransformOrigin="0.5,0.5" Margin="0,1,0,0">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </Rectangle.Stroke>
+                                        <Rectangle.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="90.50200000000001"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </Rectangle.RenderTransform>
+                                    </Rectangle>
+                                    <Rectangle x:Name="plus20" Fill="White" Margin="0,0,0,1">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0.004"/>
+                                        </Rectangle.Stroke>
+                                    </Rectangle>
+
+                                </Grid>
+
+                            </Grid>
+                            <Grid Height="245" Width="329">
+                                <Rectangle x:Name="French_Fries" Stroke="Black" Width="330" Height="245">
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/French Fries.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                                <Rectangle x:Name="drop_down_ff" HorizontalAlignment="Left" Height="35" Margin="278,9,0,0" Stroke="Black" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.5,0.5">
+                                    <Rectangle.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-90.424"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Rectangle.RenderTransform>
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/image.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                            </Grid>
+                            <Grid x:Name="Main_French_fries" Height="52" Width="365">
+                                <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Rectangle x:Name="Pork_Kebabs4" HorizontalAlignment="Center" Height="52" Stroke="Black" VerticalAlignment="Top" Width="365" Fill="#FFC4C4C4" RadiusX="35.33" RadiusY="43"/>
+                                    <TextBlock x:Name="Pork_kebab_price3" HorizontalAlignment="Left" Height="44" Margin="85,8,0,0" Text="$4.99  French fries: " TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="23" Foreground="White">
+                                        <TextBlock.Background>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </TextBlock.Background>
+                                    </TextBlock>
+                                </Grid>
+                                <Rectangle x:Name="minus3" Fill="White" Margin="16,21,300,21">
+                                    <Rectangle.Stroke>
+                                        <SolidColorBrush Color="Black" Opacity="0"/>
+                                    </Rectangle.Stroke>
+                                </Rectangle>
+                                <Grid x:Name="plus21" Margin="302,20,14,21">
+                                    <Rectangle x:Name="plus22" Fill="White" RenderTransformOrigin="0.5,0.5" Margin="0,1,0,0">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </Rectangle.Stroke>
+                                        <Rectangle.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="90.50200000000001"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </Rectangle.RenderTransform>
+                                    </Rectangle>
+                                    <Rectangle x:Name="plus23" Fill="White" Margin="0,0,0,1">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0.004"/>
+                                        </Rectangle.Stroke>
+                                    </Rectangle>
+
+                                </Grid>
+
+                            </Grid>
+                            <Grid Height="245" Width="329">
+                                <Rectangle x:Name="Pork_Ribs" Stroke="Black" Width="330" Height="245">
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/Pork Ribs.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                                <Rectangle x:Name="drop_down_pr" HorizontalAlignment="Left" Height="35" Margin="278,9,0,0" Stroke="Black" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.5,0.5">
+                                    <Rectangle.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-90.424"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Rectangle.RenderTransform>
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/image.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                            </Grid>
+                            <Grid x:Name="Main_Pork_Ribs" Height="52" Width="365">
+                                <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Rectangle x:Name="Pork_Kebabs5" HorizontalAlignment="Center" Height="52" Stroke="Black" VerticalAlignment="Top" Width="365" Fill="#FFC4C4C4" RadiusX="35.33" RadiusY="43"/>
+                                    <TextBlock x:Name="Pork_kebab_price4" HorizontalAlignment="Left" Height="44" Margin="95,8,0,0" Text="$11.99 Pork Ribs: " TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="23" Foreground="White">
+                                        <TextBlock.Background>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </TextBlock.Background>
+                                    </TextBlock>
+                                </Grid>
+                                <Rectangle x:Name="minus4" Fill="White" Margin="16,21,300,21">
+                                    <Rectangle.Stroke>
+                                        <SolidColorBrush Color="Black" Opacity="0"/>
+                                    </Rectangle.Stroke>
+                                </Rectangle>
+                                <Grid x:Name="plus24" Margin="302,20,14,21">
+                                    <Rectangle x:Name="plus25" Fill="White" RenderTransformOrigin="0.5,0.5" Margin="0,1,0,0">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </Rectangle.Stroke>
+                                        <Rectangle.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="90.50200000000001"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </Rectangle.RenderTransform>
+                                    </Rectangle>
+                                    <Rectangle x:Name="plus26" Fill="White" Margin="0,0,0,1">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0.004"/>
+                                        </Rectangle.Stroke>
+                                    </Rectangle>
+
+                                </Grid>
+
+                            </Grid>
+                            <Grid x:Name="Grid" Height="245" Width="329">
+                                <Rectangle x:Name="Onion_Rings" Stroke="Black" Width="330" Height="245">
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/Onion Rings.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                                <Rectangle x:Name="drop_down_or" HorizontalAlignment="Left" Height="35" Margin="278,9,0,0" Stroke="Black" VerticalAlignment="Top" Width="35" RenderTransformOrigin="0.5,0.5">
+                                    <Rectangle.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-90.424"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </Rectangle.RenderTransform>
+                                    <Rectangle.Fill>
+                                        <ImageBrush ImageSource="/image.png"/>
+                                    </Rectangle.Fill>
+                                </Rectangle>
+                            </Grid>
+                            <Grid x:Name="Main_Onion_rings" Height="52" Width="365">
+                                <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Rectangle x:Name="Pork_Kebabs7" HorizontalAlignment="Center" Height="52" Stroke="Black" VerticalAlignment="Top" Width="365" Fill="#FFC4C4C4" RadiusX="35.33" RadiusY="43"/>
+                                    <TextBlock x:Name="Pork_kebab_price5" HorizontalAlignment="Left" Height="44" Margin="95,8,0,0" Text="$6.99 Onion rings: " TextWrapping="Wrap" VerticalAlignment="Top" Width="260" FontSize="23" Foreground="White">
+                                        <TextBlock.Background>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </TextBlock.Background>
+                                    </TextBlock>
+                                </Grid>
+                                <Rectangle x:Name="minus5" Fill="White" Margin="16,21,300,21">
+                                    <Rectangle.Stroke>
+                                        <SolidColorBrush Color="Black" Opacity="0"/>
+                                    </Rectangle.Stroke>
+                                </Rectangle>
+                                <Grid x:Name="plus27" Margin="302,20,14,21">
+                                    <Rectangle x:Name="plus28" Fill="White" RenderTransformOrigin="0.5,0.5" Margin="0,1,0,0">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0"/>
+                                        </Rectangle.Stroke>
+                                        <Rectangle.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform Angle="90.50200000000001"/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </Rectangle.RenderTransform>
+                                    </Rectangle>
+                                    <Rectangle x:Name="plus29" Fill="White" Margin="0,0,0,1">
+                                        <Rectangle.Stroke>
+                                            <SolidColorBrush Color="Black" Opacity="0.004"/>
+                                        </Rectangle.Stroke>
+                                    </Rectangle>
+
+                                </Grid>
+
+                            </Grid>
+                        </StackPanel>
+                    </ScrollViewer>
+                    <Frame Content="Frame" Margin="8,5,0,0" Grid.RowSpan="3" Width="367" Height="646"/>
+
+                </Grid>
+            </Canvas>
+        </Viewbox>
 
     </Grid>
 </Page>
