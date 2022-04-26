@@ -33,7 +33,7 @@ namespace Test_GP_App
             this.NavigationService.Navigate(new Page9());
         }
 
-        private void TextNextPageClick(object sender, MouseButtonEventArgs e)
+        private void TextPlaceOrderClick(object sender, MouseButtonEventArgs e)
         {
             this.NavigationService.Navigate(new Page2());
         }

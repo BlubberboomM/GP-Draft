@@ -39,7 +39,7 @@
                         <DropShadowEffect/>
                     </Rectangle.Effect>
                 </Rectangle>
-                <TextBlock Height="34" TextWrapping="Wrap" Width="141" FontSize="26" Foreground="White" Canvas.Left="117" Canvas.Top="560.91" RenderTransformOrigin="0.955,0.455" MouseLeftButtonUp="TextNextPageClick"><Run Text="Place Order"/><LineBreak/><Run/></TextBlock>
+                <TextBlock Height="34" TextWrapping="Wrap" Width="141" FontSize="26" Foreground="White" Canvas.Left="117" Canvas.Top="560.91" RenderTransformOrigin="0.955,0.455" MouseLeftButtonUp="PlaceOrderClick"><Run Text="Place Order"/><LineBreak/><Run/></TextBlock>
                 <TextBlock Height="29" Canvas.Left="111.5" Canvas.Top="635.077" Text="Employee Pin" TextWrapping="Wrap" Width="152" Foreground="#FFFBFBFB" FontSize="22" TextDecorations="Underline" MouseLeftButtonUp="EmployeeClick"/>
                 <TextBlock Height="332" Canvas.Left="54.612" Canvas.Top="199.571" TextWrapping="Wrap" Width="264" Foreground="White" FontSize="24" TextAlignment="Center"><Run Text="Welcome to Smokie's online ordering. "/><LineBreak/><Run/><LineBreak/><Run Text="We are currently located in the Foster Urgent Care parking lot in Traverse City, MI."/><LineBreak/><Run/><LineBreak/><Run Text="Pickup available   10AM-7PM"/></TextBlock>
             </Canvas>

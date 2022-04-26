@@ -17,7 +17,7 @@
         </Grid.Background>
         <Viewbox Margin="-1,-5,0,0">
             <Canvas Height="667" Width="375">
-                <Ellipse Stroke="Black" Height="172" Canvas.Left="97" Canvas.Top="74.123" Width="181">
+                <Ellipse Stroke="Black" Height="172" Canvas.Left="97" Canvas.Top="32.123" Width="181">
                     <Ellipse.Fill>
                         <ImageBrush ImageSource="/Smokies.png">
                             <ImageBrush.RelativeTransform>
@@ -37,7 +37,7 @@
                         <ImageBrush ImageSource="/ThankYou.png"/>
                     </Rectangle.Fill>
                 </Rectangle>
-                <Rectangle Stroke="Black" Fill="#FFBA0000" RadiusX="35.333" RadiusY="35.333" Height="53" Canvas.Left="37.5" Canvas.Top="602.316" Width="132">
+                <Rectangle Stroke="Black" Fill="#FFBA0000" RadiusX="35.333" RadiusY="35.333" Height="53" Canvas.Left="37.5" Canvas.Top="602.316" Width="132" MouseLeftButtonUp="ReturnToMenuButtonClick">
                     <Rectangle.Effect>
                         <DropShadowEffect/>
                     </Rectangle.Effect>
@@ -47,8 +47,8 @@
                         <DropShadowEffect/>
                     </Rectangle.Effect>
                 </Rectangle>
-                <TextBlock Height="26" Canvas.Left="53.5" Canvas.Top="616.856" TextWrapping="Wrap" Width="100" Foreground="White" FontSize="14"><Run Text="Return to menu"/><LineBreak/><Run/></TextBlock>
-                <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="14" Height="26" Canvas.Left="220.218" Canvas.Top="616.856" Width="100" TextAlignment="Center"><Run Text="Close app"/><LineBreak/><Run/></TextBlock>
+                <TextBlock Height="26" Canvas.Left="53.5" Canvas.Top="616.856" TextWrapping="Wrap" Width="100" Foreground="White" FontSize="14" MouseLeftButtonUp="ReturnToMenuTextClick"><Run Text="Return to menu"/><LineBreak/><Run/></TextBlock>
+                <TextBlock TextWrapping="Wrap" Foreground="White" FontSize="14" Height="26" Canvas.Left="220.218" Canvas.Top="616.856" Width="100" TextAlignment="Center" MouseLeftButtonUp="CloseAppTextClick"><Run Text="Close app"/><LineBreak/><Run/></TextBlock>
 
 
             </Canvas>

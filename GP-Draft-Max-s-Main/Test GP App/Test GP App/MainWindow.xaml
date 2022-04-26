@@ -120,7 +120,6 @@
     </Window.Resources>
     <Grid RenderTransformOrigin="0.539,0.457" Margin="2">
         <Frame x:Name="frame" Content="Frame" NavigationUIVisibility="Hidden" Margin="2"/>
-        <Button Content="Button" HorizontalAlignment="Left" Height="115" Margin="-795,287,0,0" VerticalAlignment="Top" Width="188"/>
 
     </Grid>
 </Window>

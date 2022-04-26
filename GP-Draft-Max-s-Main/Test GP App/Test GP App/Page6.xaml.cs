@@ -25,7 +25,24 @@ namespace Test_GP_App
 
         private void CloseAppButtonClick(object sender, MouseButtonEventArgs e)
         {
-            //MainWindow.Close();
+            Application.Current.ShutdownMode = ShutdownMode.OnExplicitShutdown;
+            Application.Current.Shutdown();
+        }
+
+        private void ReturnToMenuButtonClick(object sender, MouseButtonEventArgs e)
+        {
+            this.NavigationService.Navigate(new Page1());
+        }
+
+        private void ReturnToMenuTextClick(object sender, MouseButtonEventArgs e)
+        {
+            this.NavigationService.Navigate(new Page1());
+        }
+
+        private void CloseAppTextClick(object sender, MouseButtonEventArgs e)
+        {
+            Application.Current.ShutdownMode = ShutdownMode.OnExplicitShutdown;
+            Application.Current.Shutdown();
         }
     }
 }
