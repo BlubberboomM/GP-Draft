@@ -23,14 +23,11 @@ namespace Test_GP_App
         public MainWindow()
         {
             InitializeComponent();
-
-            Loaded += MyWindow_Loaded;
         }
 
-        private void MyWindow_Loaded(object sender, RoutedEventArgs e)
+        private void Deez(object sender, RoutedEventArgs e)
         {
-            frame.NavigationService.Navigate(new Page1());
+            
         }
-
     }
 }
