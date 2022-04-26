@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Test_GP_App</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Chicken Kebabs.png" />
+    <None Remove="French Fries.png" />
+    <None Remove="image.png" />
+    <None Remove="Onion Rings.png" />
+    <None Remove="Pork Kebabs.png" />
+    <None Remove="Pork Ribs.png" />
+    <None Remove="Red_triangle.jpg" />
+    <None Remove="Sweet Potato Fries.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Chicken Kebabs.png" />
+    <Resource Include="French Fries.png" />
+    <Resource Include="image.png" />
+    <Resource Include="Onion Rings.png" />
+    <Resource Include="Pork Kebabs.png" />
+    <Resource Include="Pork Ribs.png" />
+    <Resource Include="Red_triangle.jpg" />
+    <Resource Include="Sweet Potato Fries.png" />
+  </ItemGroup>
+
+</Project>
