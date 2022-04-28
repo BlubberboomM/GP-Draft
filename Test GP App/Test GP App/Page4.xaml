@@ -34,11 +34,11 @@
                 </Ellipse>
                 <TextBlock Height="56" Text="Payment" TextWrapping="Wrap" Width="145" FontFamily="Segoe UI Semibold" FontWeight="Normal" FontSize="36" Canvas.Left="92" Canvas.Top="17"/>
                 <TextBlock Height="83" Text="Name:" TextWrapping="Wrap" Width="180" Foreground="White" FontFamily="Segoe UI Semibold" FontSize="60" TextAlignment="Center" Canvas.Left="10" Canvas.Top="95"/>
-                <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1150"/>
-                <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1055"/>
+                <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1150" MouseLeftButtonDown="pay_Pickup"/>
+                <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1055" MouseLeftButtonDown="pay_Now"/>
                 <TextBlock x:Name="totalText" Height="110" TextWrapping="Wrap" Width="313" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="693"><Run Text="Your Total:"/><LineBreak/><Run Text="Placeholder"/></TextBlock>
-                <TextBlock x:Name="asapText" Height="52" TextWrapping="Wrap" Width="313" Text="Pay Now" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1068"/>
-                <TextBlock Height="49" TextWrapping="Wrap" Width="313" Text="Pay at Pick Up" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1164.5"/>
+                <TextBlock x:Name="asapText" Height="52" TextWrapping="Wrap" Width="313" Text="Pay Now" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1068" MouseLeftButtonDown="pay_Now"/>
+                <TextBlock Height="49" TextWrapping="Wrap" Width="313" Text="Pay at Pick Up" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1164.5" MouseLeftButtonDown="pay_Pickup"/>
                 <TextBlock Height="32" Text="Back" TextWrapping="Wrap" Width="71" Foreground="White" FontSize="22" Canvas.Left="94" Canvas.Top="1212"/>
                 <TextBlock x:Name="pickupText" Height="110" TextWrapping="Wrap" Width="313" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="813"><Run Text="Pickup Time:"/><LineBreak/><Run Text="Placeholder"/></TextBlock>
                 <Ellipse Height="84" Stroke="Black" Width="84" Canvas.Left="3" Canvas.Top="1186" MouseLeftButtonDown="back">
@@ -60,6 +60,11 @@
                 <Path Data="M0.99861304,198.11373 L720.12638,198.11373" Fill="#FFF4F4F5" Height="1" Canvas.Left="3" Stretch="Fill" Stroke="White" Canvas.Top="307.114" Width="717" StrokeThickness="5"/>
                 <TextBox x:Name="nameBox" Height="98" Canvas.Left="216.699" Canvas.Top="95.667" TextWrapping="Wrap" Width="493" FontSize="60" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" TextDecorations="Underline"/>
                 <TextBox x:Name="phoneBox" Height="98" Canvas.Left="216.699" Canvas.Top="204.781" TextWrapping="Wrap" Width="493" FontSize="60" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" TextDecorations="Underline"/>
+                <Rectangle Height="87" Canvas.Left="376.477" Stroke="Black" Canvas.Top="3" Width="343">
+                    <Rectangle.Fill>
+                        <ImageBrush ImageSource="/Media/cards.png"/>
+                    </Rectangle.Fill>
+                </Rectangle>
             </Canvas>
         </Viewbox>
 

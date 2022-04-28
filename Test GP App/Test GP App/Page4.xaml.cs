@@ -18,24 +18,32 @@ namespace Test_GP_App
     /// </summary>
     public partial class Page4 : Page
     {
+        string localtime;
         public Page4(string time)
         {
             InitializeComponent();
 
-            string localTime = time;
-            pickupText.Text = "Pickup Time:\n" + localTime;
+            localtime = time;
+            pickupText.Text = "Pickup Time:\n" + localtime;
  
-        }
-
-        public void setText()
-        {
-            /// Retrieves a time from page 3
-
         }
 
         private void back(object sender, MouseButtonEventArgs e)
         {
             this.NavigationService.Navigate(new Page3());
+        }
+
+        private void pay_Now(object sender, MouseButtonEventArgs e)
+        {
+            string name = nameBox.Text;
+            string phone = phoneBox.Text;
+            double total = 20.00;
+            this.NavigationService.Navigate(new Page5(name, phone, total, localtime));
+        }
+
+        private void pay_Pickup(object sender, MouseButtonEventArgs e)
+        {
+            ///this.NavigationService.Navigate(new Page6(name, phone, total, localtime));
         }
     }
 }

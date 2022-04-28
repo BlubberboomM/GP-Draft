@@ -49,3 +49,5 @@ C:\Users\olszew3\Desktop\GP-Draft-James-Branch (1)\GP-Draft-James-Branch\Test GP
 C:\Users\olszew3\Desktop\GP-Draft-James-Branch (1)\GP-Draft-James-Branch\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
 C:\Users\olszew3\Desktop\GP-Draft-James-Branch (1)\GP-Draft-James-Branch\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
 C:\Users\olszew3\Desktop\GP-Draft-James-Branch (1)\GP-Draft-James-Branch\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
+C:\Users\olszew3\Desktop\GP-Draft-James-Branch (1)\GP-Draft-James-Branch\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page5.g.cs
+C:\Users\olszew3\Desktop\GP-Draft-James-Branch (1)\GP-Draft-James-Branch\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page5.baml

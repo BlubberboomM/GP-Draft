@@ -57,8 +57,8 @@
                 <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1150" MouseLeftButtonDown="pickup_Click"/>
                 <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1055" MouseLeftButtonDown="asap_Click"/>
                 <TextBlock x:Name="totalText" Height="110" TextWrapping="Wrap" Width="313" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="874"><Run Text="Your Total"/><LineBreak/><Run Text="Placeholder"/></TextBlock>
-                <TextBlock x:Name="asapText" Height="78" TextWrapping="Wrap" Width="183" Text="Pick up ASAP:&#xA;Placeholder" Foreground="White" FontSize="26" TextAlignment="Center" Canvas.Left="268.41" Canvas.Top="1055"/>
-                <TextBlock x:Name="pickUpText" Height="39" TextWrapping="Wrap" Width="313" Text="Pick up at:       00:00" Foreground="White" FontSize="26" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1170"/>
+                <TextBlock x:Name="asapText" Height="78" TextWrapping="Wrap" Width="183" Text="Pick up ASAP:&#xA;Placeholder" Foreground="White" FontSize="26" TextAlignment="Center" Canvas.Left="268.41" Canvas.Top="1055" MouseLeftButtonDown="asap_Click"/>
+                <TextBlock x:Name="pickUpText" Height="39" TextWrapping="Wrap" Width="313" Text="Pick up at:       00:00" Foreground="White" FontSize="26" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1170" MouseLeftButtonDown="pickup_Click"/>
                 <TextBlock Height="32" Text="Back" TextWrapping="Wrap" Width="71" Foreground="White" FontSize="22" Canvas.Left="94" Canvas.Top="1212"/>
                 <Button x:Name="hoursUp" Content="^" Height="15" Canvas.Left="420" Canvas.Top="1159.004" Width="14" Click="hourUp" Foreground="White" Background="#FFBA0000" BorderBrush="{x:Null}" FontWeight="Bold"/>
                 <Button x:Name="tenMinUp" Content="^" Height="15" Canvas.Left="446" Canvas.Top="1159.004" Width="14" Click="tenUp" Foreground="White" Background="#FFBA0000" BorderBrush="{x:Null}" FontWeight="Bold"/>

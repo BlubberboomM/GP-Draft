@@ -9,12 +9,14 @@
 
   <ItemGroup>
     <None Remove="Media\back.PNG" />
+    <None Remove="Media\cards.png" />
     <None Remove="Media\cart.PNG" />
     <None Remove="Media\smokies.png" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="Media\back.PNG" />
+    <Resource Include="Media\cards.png" />
     <Resource Include="Media\cart.PNG" />
     <Resource Include="Media\smokies.png" />
   </ItemGroup>
