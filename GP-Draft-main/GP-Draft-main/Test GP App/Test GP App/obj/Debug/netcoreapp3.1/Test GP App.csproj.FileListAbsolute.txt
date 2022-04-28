@@ -1,0 +1,28 @@
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.exe
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.deps.json
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.json
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.dev.json
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.AssemblyReference.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.lref
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.g.resources
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfoInputs.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfo.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page10.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page11.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page12.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page13.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page14.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page15.g.cs
