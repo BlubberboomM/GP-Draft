@@ -1,0 +1,72 @@
+﻿<Page x:Class="Test_GP_App.Page4"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Test_GP_App"
+      mc:Ignorable="d" 
+      d:DesignHeight="1280" d:DesignWidth="720"
+      Title="Page4">
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black" Offset="1"/>
+            <GradientStop Color="Red" Offset="0"/>
+        </LinearGradientBrush>
+    </Page.Background>
+
+    <Grid>
+        <Viewbox Margin="-1,-5,0,0">
+            <Canvas Height="1280" Width="720">
+                <Rectangle Height="90" Stroke="Black" Width="720" Fill="#FFC4C4C4"/>
+                <Ellipse Height="84" Stroke="Black" Width="84" Canvas.Left="3" Canvas.Top="3">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="/Media/Smokies.png">
+                            <ImageBrush.RelativeTransform>
+                                <TransformGroup>
+                                    <ScaleTransform CenterY="0.5" CenterX="0.5" ScaleX="1.2" ScaleY="1.2"/>
+                                    <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                                    <RotateTransform CenterY="0.5" CenterX="0.5"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </ImageBrush.RelativeTransform>
+                        </ImageBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <TextBlock Height="56" Text="Payment" TextWrapping="Wrap" Width="145" FontFamily="Segoe UI Semibold" FontWeight="Normal" FontSize="36" Canvas.Left="92" Canvas.Top="17"/>
+                <TextBlock Height="83" Text="Name:" TextWrapping="Wrap" Width="180" Foreground="White" FontFamily="Segoe UI Semibold" FontSize="60" TextAlignment="Center" Canvas.Left="10" Canvas.Top="95"/>
+                <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1150" MouseLeftButtonDown="pay_Pickup"/>
+                <Rectangle Height="78" Stroke="Black" Width="404" RadiusX="35.333" RadiusY="35.333" Fill="#FFBA0000" Canvas.Left="158" Canvas.Top="1055" MouseLeftButtonDown="pay_Now"/>
+                <TextBlock x:Name="totalText" Height="110" TextWrapping="Wrap" Width="313" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="693"><Run Text="Your Total:"/><LineBreak/><Run Text="Placeholder"/></TextBlock>
+                <TextBlock x:Name="asapText" Height="52" TextWrapping="Wrap" Width="313" Text="Pay Now" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1068" MouseLeftButtonDown="pay_Now"/>
+                <TextBlock Height="49" TextWrapping="Wrap" Width="313" Text="Pay at Pick Up" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="1164.5" MouseLeftButtonDown="pay_Pickup"/>
+                <TextBlock Height="32" Text="Back" TextWrapping="Wrap" Width="71" Foreground="White" FontSize="22" Canvas.Left="94" Canvas.Top="1212"/>
+                <TextBlock x:Name="pickupText" Height="110" TextWrapping="Wrap" Width="313" Foreground="White" FontSize="36" TextAlignment="Center" Canvas.Left="203.5" Canvas.Top="813"><Run Text="Pickup Time:"/><LineBreak/><Run Text="Placeholder"/></TextBlock>
+                <Ellipse Height="84" Stroke="Black" Width="84" Canvas.Left="3" Canvas.Top="1186" MouseLeftButtonDown="back">
+                    <Ellipse.Fill>
+                        <ImageBrush ImageSource="/Media/back.PNG">
+                            <ImageBrush.RelativeTransform>
+                                <TransformGroup>
+                                    <ScaleTransform CenterY="0.5" CenterX="0.6" ScaleX="1.3" ScaleY="1.3"/>
+                                    <SkewTransform CenterY="0.5" CenterX="0.6"/>
+                                    <RotateTransform CenterY="0.5" CenterX="0.6"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </ImageBrush.RelativeTransform>
+                        </ImageBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <TextBlock Height="89" Text="Phone:" TextWrapping="Wrap" Width="193" Foreground="White" FontFamily="Segoe UI Semibold" FontSize="60" TextAlignment="Center" Canvas.Left="10" Canvas.Top="208.614"/>
+                <Path Data="M0.99861304,198.11373 L720.12638,198.11373" Fill="#FFF4F4F5" Height="1" Canvas.Left="0.999" Stretch="Fill" Stroke="White" Canvas.Top="198.114" Width="720" StrokeThickness="5"/>
+                <Path Data="M0.99861304,198.11373 L720.12638,198.11373" Fill="#FFF4F4F5" Height="1" Canvas.Left="3" Stretch="Fill" Stroke="White" Canvas.Top="307.114" Width="717" StrokeThickness="5"/>
+                <TextBox x:Name="nameBox" Height="98" Canvas.Left="216.699" Canvas.Top="95.667" TextWrapping="Wrap" Width="493" FontSize="60" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" TextDecorations="Underline"/>
+                <TextBox x:Name="phoneBox" Height="98" Canvas.Left="216.699" Canvas.Top="204.781" TextWrapping="Wrap" Width="493" FontSize="60" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" TextDecorations="Underline"/>
+                <Rectangle Height="87" Canvas.Left="376.477" Stroke="Black" Canvas.Top="3" Width="343">
+                    <Rectangle.Fill>
+                        <ImageBrush ImageSource="/Media/cards.png"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Canvas>
+        </Viewbox>
+
+    </Grid>
+</Page>
