@@ -1,0 +1,203 @@
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.AssemblyReference.cache
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.cache
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.lref
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.exe
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.deps.json
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.json
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.dev.json
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.g.resources
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfoInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfo.cs
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.CoreCompileInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.baml
+C:\Users\mackin19\Downloads\GP-Draft-main\GP-Draft-main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.baml
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.exe
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.deps.json
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.json
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.dev.json
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csprojAssemblyReference.cache
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.g.cs
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.g.cs
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.cache
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.lref
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.baml
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.baml
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.g.resources
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfoInputs.cache
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfo.cs
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.CoreCompileInputs.cache
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\profm\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.exe
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.deps.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.dev.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.AssemblyReference.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.lref
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.g.resources
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfoInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfo.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.CoreCompileInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page9.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page9.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.exe
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.deps.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.dev.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.AssemblyReference.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page9.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.lref
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page9.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.g.resources
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfoInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfo.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.CoreCompileInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page6.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (3)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page6.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.exe
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.deps.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.dev.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page6.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page9.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.lref
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page6.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page9.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.g.resources
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfoInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfo.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.CoreCompileInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (4)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.exe
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.deps.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.dev.json
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page6.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page9.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.lref
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page1.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page2.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page6.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page9.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.g.resources
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfoInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfo.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.CoreCompileInputs.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page3.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page4.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page5.g.cs
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page3.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page4.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Page5.baml
+C:\Users\mackin19\Downloads\GP-Draft-Max-s-Main (5)\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.AssemblyReference.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.exe
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.deps.json
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.json
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.runtimeconfig.dev.json
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\bin\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.AssemblyReference.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page1.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page10.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page11.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page12.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page13.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page14.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page15.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page2.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page3.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page4.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page5.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page6.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page9.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App_MarkupCompile.lref
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page1.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page10.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page11.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page12.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page13.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page14.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page15.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page2.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page3.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page4.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page5.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page6.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Page9.baml
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.g.resources
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfoInputs.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.AssemblyInfo.cs
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.dll
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.pdb
+C:\Users\Dylan\Documents\CIT195\GP-Draft-Max-s-Main\GP-Draft-Max-s-Main\Test GP App\obj\Debug\netcoreapp3.1\Test GP App.genruntimeconfig.cache
