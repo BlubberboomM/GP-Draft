@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Test_GP_App</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="back.PNG" />
+    <None Remove="cart.PNG" />
+    <None Remove="Chicken Kebabs.png" />
+    <None Remove="French Fries.png" />
+    <None Remove="image.png" />
+    <None Remove="Image1.png" />
+    <None Remove="Media\back.PNG" />
+    <None Remove="Media\cards.png" />
+    <None Remove="Media\cart.PNG" />
+    <None Remove="Media\smokies.png" />
+    <None Remove="Onion Rings.png" />
+    <None Remove="Pork Kebabs.png" />
+    <None Remove="Pork Ribs.png" />
+    <None Remove="Red_triangle.jpg" />
+    <None Remove="Screenshot 2022-04-26 105840.jpg" />
+    <None Remove="shopping-cart-1923313_1280.png" />
+    <None Remove="Smokies.png" />
+    <None Remove="Sweet Potato Fries.png" />
+    <None Remove="ThankYou.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="back.PNG" />
+    <Resource Include="cart.PNG" />
+    <Resource Include="Chicken Kebabs.png" />
+    <Resource Include="French Fries.png" />
+    <Resource Include="image.png" />
+    <Resource Include="Image1.png" />
+    <Resource Include="Media\back.PNG" />
+    <Resource Include="Media\cards.png" />
+    <Resource Include="Media\cart.PNG" />
+    <Resource Include="Media\smokies.png" />
+    <Resource Include="Onion Rings.png" />
+    <Resource Include="Pork Kebabs.png" />
+    <Resource Include="Pork Ribs.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Red_triangle.jpg" />
+    <Resource Include="Screenshot 2022-04-26 105840.jpg" />
+    <Resource Include="shopping-cart-1923313_1280.png" />
+    <Resource Include="Smokies.png" />
+    <Resource Include="Sweet Potato Fries.png" />
+    <Resource Include="ThankYou.png" />
+  </ItemGroup>
+
+</Project>
